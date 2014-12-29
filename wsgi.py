@@ -2,6 +2,7 @@
 #@+node:lee.20141224110313.46: * @file wsgi.py
 #@@language python
 #@@tabwidth -4
+# -*- coding: utf-8 -*-
 
 #@+<<decorations>>
 #@+node:lee.20141215164031.47: ** <<decorations>>
