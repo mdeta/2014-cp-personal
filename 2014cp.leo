@@ -28,16 +28,9 @@
 <v t="lee.20141224110313.43"><vh>@edit __init__.py</vh></v>
 <v t="lee.20141224110313.44"><vh>@edit .gitignore</vh></v>
 <v t="lee.20141224110313.45"><vh>@edit setup.py</vh></v>
-<v t="lee.20141224110313.46" a="E"><vh>@file wsgi.py</vh></v>
-<v t="lee.20141224110313.47"><vh>@edit readme.md</vh></v>
-</v>
-<v t="lee.20141224110313.55" a="E"><vh>@path std</vh>
-<v t="lee.20141224110313.58"><vh>@file asciisymbol.py</vh></v>
-<v t="lee.20141224110313.59"><vh>@file example1.py</vh></v>
-<v t="lee.20141224110313.60" a="E"
-expanded="lee.20141215164031.96,"><vh>@file example.py</vh></v>
-<v t="lee.20141224110313.61" a="E"
-expanded="lee.20141223114246.41,"><vh>@file example2.py</vh></v>
+<v t="lee.20141229095026.72"><vh>@file asciisymbol.py</vh></v>
+<v t="lee.20141224110313.46" a="E"
+expanded="lee.20141229095026.59,"><vh>@file wsgi.py</vh></v>
 </v>
 <v t="lee.20141224110313.56"><vh>@path templates</vh>
 <v t="lee.20141224110313.131"><vh>@edit 404.html</vh></v>
@@ -57,7 +50,6 @@ expanded="lee.20141223114246.41,"><vh>@file example2.py</vh></v>
 
 </t>
 <t tx="lee.20141224110313.41"></t>
-<t tx="lee.20141224110313.55"></t>
 <t tx="lee.20141224110313.56"></t>
 <t tx="lee.20141224110313.57"></t>
 <t tx="lee.20141227235536.46">##  關於此專案
